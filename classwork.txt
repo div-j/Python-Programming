@@ -1,0 +1,7 @@
+print("---Registraion Program----")
+
+name = input("Please enter your name: ")
+age = intput("Please enter your age: ")
+
+print(f"Your age is {age} and your name is {name}")
+print("You are successfully registered. Thank you")
